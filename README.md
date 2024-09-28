@@ -9,5 +9,6 @@ pod install
 open EduAppPro.xcworkspace
 ```
 
-# Demo
+# Screens
 
+![app](https://github.com/user-attachments/assets/fc883e17-7e54-4231-82bc-ecbdf6de2020)
